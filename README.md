@@ -3,12 +3,12 @@
 用实机、官方立绘和同人作品作为参考，设计以芙宁娜为主角的手机或电脑壁纸。目前的角色校准指南以荒性形态为主。
 
 - [创作工作流](furina-wallpaper-workflow.md) · 从确定姿势、视线和构图，到生成与审图。
-- [参考素材索引](references/README.md) · 实机、官图、同人原作和壁纸样本，附每张参考的用途。
+- [素材渠道和使用方法](furina-wallpaper-workflow.md#2-搜集和使用参考素材) · 按本次主题现场找图，并为角色还原、构图和壁纸排版分别选择参考。
 
 ## 在新对话里使用
 
 复制下面这段，把方括号里的内容换成这次想画的主题和用途。
 
-> 请先读 https://github.com/wyy-0704/furina-wallpaper/blob/main/furina-wallpaper-workflow.md 和其中的素材索引，再为我生成一张芙宁娜壁纸。主题是「[填写主题]」，用途是「[手机锁屏或电脑桌面]」。
+> 请先读 https://github.com/wyy-0704/furina-wallpaper/blob/main/furina-wallpaper-workflow.md，沿文档里的渠道现场选参考，再为我生成一张芙宁娜壁纸。主题是「[填写主题]」，用途是「[手机锁屏或电脑桌面]」。
 
 想先讨论画面时，把「生成」改成「设计画面方案」。
